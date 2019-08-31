@@ -14,6 +14,8 @@ Introdução: O projeto visa facilitar o processo de achados e perdidos no curso
 
 5- É possível excluir um objeto do sistema quando o mesmo volta ao dono original
 
+Melina: Adicionar mais funcionalidades, como por exemplo: buscar objetos pelo nome, por quem foi achado/perdido 
+
 __Desenvolvedores__
 
 - [Thyago Pereira](https://github.com/thyagopereira)
